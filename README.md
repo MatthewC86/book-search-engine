@@ -33,6 +33,9 @@
   ## License
   [![License: mit](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  https://dashboard.heroku.com/apps/young-ocean-16832
+  https://github.com/MatthewC86/book-search-engine
+
 
 
 
